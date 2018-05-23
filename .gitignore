@@ -1,0 +1,8 @@
+
+/target
+**/*.rs.bk
+
+home_finance.sqlite3
+
+/.idea/*
+/.vscode/*
