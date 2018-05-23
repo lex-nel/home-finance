@@ -4,3 +4,5 @@ version = "0.1.0"
 authors = ["Климин Алексей <lex.klimin@gmail.com>"]
 
 [dependencies]
+rusqlite = "*"
+time = "*"
